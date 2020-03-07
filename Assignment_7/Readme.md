@@ -24,4 +24,10 @@ Analysis:
   - Total Parameters used: 155k
   - Data Augmentation of Random Horizontal Flip can be applied
   - Model aims to include dilation convolution and depthwise convolution.
-  - Regularization can be applied. Further, Test data can be checked for appropriate cllasification and then appropriate architecture can be enhanced. 
+  - Regularization can be applied. Further, Test data can be checked for appropriate classification and then appropriate architecture can be enhanced. 
+
+### Group Members:
+  - BhKPriyanka
+  - Pratik Jain
+  - Siddharth Surange  
+  - Anjali Chimnani
