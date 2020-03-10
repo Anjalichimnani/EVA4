@@ -13,7 +13,7 @@ Model is developed with the below architecture:
 - Total Train loss is calculated and validated with Test Set
 - The model parameters used are : 15358
 - Epochs: 19
-- Maximum Train Accuracy: 99.17 
-- Maximum Validation Accuracy: 99.4%
+- Maximum Train Accuracy: 99.13% 
+- Maximum Validation Accuracy: 99.41%
 
 ![Architecture Image] (https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_4/Architecture.jpeg)
