@@ -16,3 +16,4 @@ Model is developed with the below architecture:
 - Maximum Train Accuracy: 99.17 
 - Maximum Validation Accuracy: 99.4%
 
+![Architecture Image] (https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_4/Architecture.jpeg)
