@@ -32,3 +32,6 @@ This step involves adding Global average pooling layer, to enable constant outco
 
 - EVA4 - MNIST - Final Step - Capacity FC Augmentation.ipynb
 The final step is to obtain the result by increasing the capacity i.e the number of parameters used, connecting a fully conected layer after GAP layer and applying image augmentation to Train and Test data set. This will ascertain optimised parameters for optimized resources used to get good accuracy. 
+
+## Accuracy Visualization 
+![Accuracy Graph](https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_5/Accuracy%20Graph.PNG)
