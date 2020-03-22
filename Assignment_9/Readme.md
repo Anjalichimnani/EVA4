@@ -25,3 +25,9 @@ Analysis:
 ### References:
 [ResNet!](https://github.com/kuangliu/pytorch-cifar)
 [GradCam!](https://github.com/kazuto1011/grad-cam-pytorch)
+
+### Team Members: 
+  - BhKPriyanka
+  - Pratik Jain
+  - Siddharth Surange  
+  - Anjali Chimnani
