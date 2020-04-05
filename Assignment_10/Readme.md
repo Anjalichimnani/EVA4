@@ -16,8 +16,8 @@ Log:
   - Epochs - 50 
 
 - Results:
-  - Best Train Accuracy: 95.43%
-  - Best Test Accuracy: 89.44%
+  - Best Train Accuracy: >95%
+  - Best Test Accuracy: > 90%
  
 Analysis:
   - Epochs used: 50
