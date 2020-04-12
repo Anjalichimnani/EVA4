@@ -13,8 +13,8 @@ The schedule One Cycle Policy is used to train the model to Max_LR = 0.006 withi
   - Epochs - 24 
 
 - Results:
-  - Best Train Accuracy: > 
-  - Best Test Accuracy: > 
+  - Best Train Accuracy: > 98.67%
+  - Best Test Accuracy: > 91%
  
 Analysis:
   - Epochs used: 24
@@ -22,8 +22,8 @@ Analysis:
   - Albumentation Transfor of Padding, RandomCrop(32, 32), FlipLR, Cutout are applied along with Normalize and ToTensor. 
   - Maxmimum LR of 0.006 is used based on the outcome from LR finder. 
 
-###Training Schedule
-[Cyclic Training Schedule!](https://github.com/kuangliu/pytorch-cifar)
+### Training Schedule:
+[Cyclic Training Schedule!](https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_11/Graphs/Training_Schedule.PNG)
   
 ### References:
 [ResNet!](https://github.com/kuangliu/pytorch-cifar)
