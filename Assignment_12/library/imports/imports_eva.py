@@ -5,6 +5,7 @@ import torch
 from torchvision import models
 import torchvision
 import torchvision.transforms as transforms
+import torchvision.datasets as datasets
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -40,3 +41,11 @@ import os.path as osp
 import click
 import matplotlib.cm as cm
 import matplotlib.pyplot as plt
+
+import random
+import pandas as pd
+
+from google.colab.patches import cv2_imshow
+
+from sklearn.cluster import KMeans
+import json
