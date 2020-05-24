@@ -34,12 +34,14 @@ The Image keys have name in format as  <ImageName><ImageSize>.<ImageFormat>
 ```"images_01.jpg8323":```
 
 Each Image instance/Element is an object in itself with different attributes: 
-```"images_01.jpg8323": {
+```
+"images_01.jpg8323": {
 		"filename": "images_01.jpg",
 		"size": 8323,
 		"regions": [],
         "file_attributes":{}
-}```
+}
+```
 
 The first Attribute is the FileName: The Image file name being annotated
 ```"filename": "images_01.jpg"```
@@ -49,32 +51,40 @@ The Next Attribute is the size of the image (not segregated into width and heigh
 
 Region forms the next attribute which is an array of objects, which contains the information for all annotations. Each annotated element forms one array element with 2 Attributes: Shape Attributes and Region Attibutes. 
 Shape Attribute provides information as shape name(square/rectangle/pentagon), center of the annotation (square/rectangle/any shape) and Shape dimensions (Width/Height in case of square/rectangle). 
-```"shape_attributes": {
+```
+"shape_attributes": {
 					"name": "rect",
 					"x": 35,
 					"y": 4,
 					"width": 152,
 					"height": 163
-}```
+}
+```
 
 Region Attributes provides other descriptive information as required for the annotated region as Annotated Object Name, Type of object (class), Image quality (any description required). 
-```"region_attributes": {
+```
+"region_attributes": {
 					"name": "DOG_1",
 					"type": "dog",
 					"image_quality": {
 						"good": true,
 						"frontal": true,
 						"good_illumination": true
-}```
-Thus, ```regions``` attribute is an array of the object with shape and region attributes for all annotated objects in the image as:
-```"regions": [ {...}, {...}, ..]```
+}
+```
+Thus, *regions* attribute is an array of the object with shape and region attributes for all annotated objects in the image as:
+```
+"regions": [ {...}, {...}, ..]
+```
 
 The Last Attribute is the File Attributes which provides details for the image as any caption, url, public domain and can be used to descrive characteristics of whole image.
-```"file_attributes": {
+```
+"file_attributes": {
 			"caption": "Image with 2 dogs Overlap",
 			"public_domain": "no",
 			"image_url": ""
-}```
+}
+```
 
 
 ### Custom Dog Dataset: 50 Images is present at [Dog Dataset!](https://github.com/Anjalichimnani/EVA4/tree/master/Assignment_12/data/dogs)
