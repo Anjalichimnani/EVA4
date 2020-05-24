@@ -3,7 +3,8 @@
 
 Performing object detection using YoloV3 Open CV implementation in Python. Using a custom image and classes in coco data set, tagging a custom image with the objects detected. The code reference is [YoloV3 OpenCV!](https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/)
 
-### [Custom Annotated Image] (https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_13/data/coco/custom_image.png)
+### Custom Annotated Image using YoloV3 Open CV Implementation
+![Custom Annotated Image] (https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_13/data/coco/custom_image.png)
   
 ### YoloV3 implementation with OpenCV is at [YoloV3 OpenCV!](https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_13/YoloV3_OpenCV_Custom.ipynb)
 
@@ -17,6 +18,9 @@ The Custom Trained model is run on varied (3) Videos with different characterist
 ### Custom Kung Fu Panda Dataset: 550 Images is present at [Kung Fu Panda Dataset!](https://github.com/Anjalichimnani/EVA4/tree/master/Assignment_13/data/kungfupanda/Annotation/Images/kungfupanda)
 
 ### The Annotations for the Dog dataset are present at [Annotated txt!](https://github.com/Anjalichimnani/EVA4/tree/master/Assignment_13/data/kungfupanda/Annotation/Labels/kungfupanda)
+
+### Sample Annotated Images Outcomes from the YoloV3 Implementation
+
 
 ### Outcome of the YoloV3 Detection on videos: 
 [Kung Fu Panda Final Fighting Scene!](https://youtu.be/yk3cm6nScDw)
