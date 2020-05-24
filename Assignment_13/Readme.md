@@ -3,7 +3,7 @@
 
 Performing object detection using YoloV3 Open CV implementation in Python. Using a custom image and classes in coco data set, tagging a custom image with the objects detected. The code reference is [YoloV3 OpenCV!](https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/)
 
-### ![Custom Annotated Image] (/data/coco/custom_image.png)
+### [Custom Annotated Image] (https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_13/data/coco/custom_image.png)
   
 ### YoloV3 implementation with OpenCV is at [YoloV3 OpenCV!](https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_13/YoloV3_OpenCV_Custom.ipynb)
 
@@ -14,9 +14,9 @@ The YoloV3 implementation is learnt on a Custom Class -> Kung Fu Panda.
 The Learning is performed using transfer learning, first learning on Small Coco data set and then, learning on 500 (~550) images of Kung Fu Panda class. 
 The Custom Trained model is run on varied (3) Videos with different characteristics to obtain the annotations for the custom class.  
 
-### Custom Kung Fu Panda Dataset: 550 Images is present at [Kung Fu Panda Dataset!](/data/kungfupanda/Annotation/Images/kungfupanda)
+### Custom Kung Fu Panda Dataset: 550 Images is present at [Kung Fu Panda Dataset!](https://github.com/Anjalichimnani/EVA4/tree/master/Assignment_13/data/kungfupanda/Annotation/Images/kungfupanda)
 
-### The Annotations for the Dog dataset are present at [Annotated txt!](/data/kungfupanda/Annotation/Labels/kungfupanda)
+### The Annotations for the Dog dataset are present at [Annotated txt!](https://github.com/Anjalichimnani/EVA4/tree/master/Assignment_13/data/kungfupanda/Annotation/Labels/kungfupanda)
 
 ### Outcome of the YoloV3 Detection on videos: 
 [Kung Fu Panda Final Fighting Scene!](https://youtu.be/yk3cm6nScDw)
@@ -36,12 +36,12 @@ The Custom Trained model is run on varied (3) Videos with different characterist
 
 
 ## References:
-[YoloV3 Open CV Implementation!](https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/)
+[YoloV3 Open CV Implementation](https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/)
 
-[YoloV3!](https://github.com/theschoolofai/YoloV3)
+[YoloV3](https://github.com/theschoolofai/YoloV3)
 
-[YoloV3 Annotation Tool!](https://github.com/miki998/YoloV3_Annotation_Tool)
+[YoloV3 Annotation Tool](https://github.com/miki998/YoloV3_Annotation_Tool)
 
-[YoloV3 Custom Class!]([YoloV3!](https://colab.research.google.com/drive/1LbKkQf4hbIuiUHunLlvY-cc0d_sNcAgS)
+[YoloV3 Custom Class](https://colab.research.google.com/drive/1LbKkQf4hbIuiUHunLlvY-cc0d_sNcAgS)
 
-[Extract Frames!](https://en.wikibooks.org/wiki/FFMPEG_An_Intermediate_Guide/image_sequence)
+[Extract Frames](https://en.wikibooks.org/wiki/FFMPEG_An_Intermediate_Guide/image_sequence)
