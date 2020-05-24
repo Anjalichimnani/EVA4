@@ -89,7 +89,7 @@ The Last Attribute is the File Attributes which provides details for the image a
 
 ### Custom Dog Dataset: 50 Images is present at [Dog Dataset!](https://github.com/Anjalichimnani/EVA4/tree/master/Assignment_12/data/dogs)
 
-## The Annotations for the Dog dataset are present at [Annotated JSON!](https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_12/data/dogs/Final_Dog_Annotations.json)
+### The Annotations for the Dog dataset are present at [Annotated JSON!](https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_12/data/dogs/Final_Dog_Annotations.json)
 
 ### KMeans Clustering for Anchor boxes for custom Dog Dataset [KMeans Cluster Implementation!](https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_12/EVA_12_KMeans_Clustering.ipynb)
 Code for implmenting the KMeans Cluster: 
@@ -110,5 +110,7 @@ Where, X is an array of Width and Height, seed_range is for the K values, max_it
 ### References:
 [Tiny ImageNet Dataset Download!](http://cs231n.stanford.edu/tiny-imagenet-200.zip)
 [ResNet!](https://github.com/kuangliu/pytorch-cifar)
+
 [Image Annotation Tool!](http://www.robots.ox.ac.uk/~vgg/software/via/via_demo.html)
+
 [KMeans Clustering!](https://towardsdatascience.com/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203)
