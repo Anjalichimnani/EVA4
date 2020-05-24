@@ -5,10 +5,8 @@ Performing object detection using YoloV3 Open CV implementation in Python. Using
 
 
 Custom Annotated Image using YoloV3 Open CV Implementation:
-Sample Annotated Image 02:
-![Image](https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_13/data/coco/custom_image.jpg)
 
-![Image] (https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_13/data/coco/custom_image.jpg)
+![Image](https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_13/data/coco/custom_image.jpg)
   
 ### YoloV3 implementation with OpenCV is at [YoloV3 OpenCV!](https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_13/YoloV3_OpenCV_Custom.ipynb)
 
