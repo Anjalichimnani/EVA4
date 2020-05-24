@@ -3,7 +3,11 @@
 
 Performing object detection using YoloV3 Open CV implementation in Python. Using a custom image and classes in coco data set, tagging a custom image with the objects detected. The code reference is [YoloV3 OpenCV!](https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/)
 
+
 Custom Annotated Image using YoloV3 Open CV Implementation:
+Sample Annotated Image 02:
+![Image](https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_13/data/kungfupanda/Annotated_Image_Out_02.jpg)
+
 ![Image] (https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_13/data/coco/custom_image.jpg)
   
 ### YoloV3 implementation with OpenCV is at [YoloV3 OpenCV!](https://github.com/Anjalichimnani/EVA4/blob/master/Assignment_13/YoloV3_OpenCV_Custom.ipynb)
